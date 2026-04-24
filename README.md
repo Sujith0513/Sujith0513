@@ -128,12 +128,12 @@ me = RSujithGopi()
 </details>
 
 <details>
-<summary><b>🎓 Campus Placement Portal — IIITDM (MAD-2, IIT Madras)</b></summary>
+<summary><b>🎓 Campus Placement Portal </b></summary>
 <br>
 
 **Full-stack campus recruitment management system that digitalises the entire placement lifecycle.**
 
-Built as part of the MAD-2 curriculum at IIT Madras, this portal handles everything from company registration and drive creation through to student applications, interview scheduling, and analytics reporting — replacing ad-hoc spreadsheets with a structured, role-aware platform.
+This portal handles everything from company registration and drive creation through to student applications, interview scheduling, and analytics reporting — replacing ad-hoc spreadsheets with a structured, role-aware platform.
 
 - **Three-tier role architecture**: Admin, Company, and Student roles — each with a dedicated dashboard and scoped permissions enforced via **JWT authentication** (24-hour expiry) + **Werkzeug password hashing** + **RBAC** across 25+ RESTful API endpoints
 - **Admin dashboard**: Company approval/rejection workflows, student and company blacklisting, placement analytics, and one-click **CSV export** of all application data
