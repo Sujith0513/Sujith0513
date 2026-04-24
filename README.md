@@ -15,7 +15,7 @@
 ```
 
 <a href="https://github.com/Sujith0513">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=9d8ec7&center=true&vCenter=true&width=700&lines=Autonomous+Underwater+Vehicles+%E2%80%94+1st+Place+%40+IIT+Bombay+%F0%9F%8F%86;Deep+Learning+for+Retinal+Vessel+Segmentation+%26+DR+Grading;Document+Binarisation+surpassing+DIBCO+competition+winners;AI+Agents+%7C+LangGraph+%7C+Multi-LLM+Cross-Validation;Embedded+Systems+%7C+ROS2+%7C+ESP32+%7C+PID+Control;Signal+Processing+%7C+FFT+%7C+LMS%2FRLS+%7C+CLAHE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=9d8ec7&center=true&vCenter=true&width=700&lines=Autonomous+Underwater+Vehicles+%E2%80%94+1st+Place+%40+IIT+Bombay+%F0%9F%8F%86;Deep+Learning+for+Retinal+Vessel+Segmentation+%26+DR+Grading;Document+Binarisation+surpassing+DIBCO+competition+winners;Campus+Placement+Portal+%7C+Flask+%2B+Vue.js+%2B+Celery+%2B+Redis;AI+Agents+%7C+LangGraph+%7C+Multi-LLM+Cross-Validation;Embedded+Systems+%7C+ROS2+%7C+ESP32+%7C+PID+Control;Signal+Processing+%7C+FFT+%7C+LMS%2FRLS+%7C+CLAHE" />
 </a>
 
 <br/>
@@ -46,6 +46,7 @@ class RSujithGopi:
         "📡  Signal Processing    (FFT, LMS/RLS, Bio-signals)",
         "🔌  Embedded Systems     (STM32, ESP32, Sensor Fusion)",
         "🕵️  AI Agents            (LangGraph, Multi-LLM pipelines)",
+        "🌐  Full-Stack Web       (Flask, Vue.js, REST APIs)",
         "📊  Data Science         (Time-Series, EDA, Forecasting)",
     ]
 
@@ -127,6 +128,26 @@ me = RSujithGopi()
 </details>
 
 <details>
+<summary><b>🎓 Campus Placement Portal — IIITDM (MAD-2, IIT Madras)</b></summary>
+<br>
+
+**Full-stack campus recruitment management system that digitalises the entire placement lifecycle.**
+
+Built as part of the MAD-2 curriculum at IIT Madras, this portal handles everything from company registration and drive creation through to student applications, interview scheduling, and analytics reporting — replacing ad-hoc spreadsheets with a structured, role-aware platform.
+
+- **Three-tier role architecture**: Admin, Company, and Student roles — each with a dedicated dashboard and scoped permissions enforced via **JWT authentication** (24-hour expiry) + **Werkzeug password hashing** + **RBAC** across 25+ RESTful API endpoints
+- **Admin dashboard**: Company approval/rejection workflows, student and company blacklisting, placement analytics, and one-click **CSV export** of all application data
+- **Company portal**: Drive creation with eligibility filters (CGPA thresholds, branch criteria), interview scheduling, per-drive application statistics, and applicant list export
+- **Student portal**: Profile and résumé management (PDF upload, 5 MB limit), drive browsing with eligibility matching, real-time application status tracking, and interview schedule visibility
+- **Backend**: Flask + SQLAlchemy (SQLite), **Celery + Redis** for async task queuing (email notifications, report generation), **Flask-Caching** for query optimisation
+- **Frontend**: Vue.js 3 with Chart.js analytics dashboards, Bootstrap 5 UI, and Axios for reactive API communication
+- **Security**: CORS protection, file-type validation, environment-variable–driven secrets, token refresh flow
+
+`Flask` `SQLAlchemy` `Celery` `Redis` `Vue.js 3` `Chart.js` `Bootstrap 5` `JWT` `Axios` `Python`
+
+</details>
+
+<details>
 <summary><b>🕵️ Hardware Sourcing & Specifications AI Agent</b></summary>
 <br>
 
@@ -188,6 +209,15 @@ me = RSujithGopi()
 ![LangChain](https://img.shields.io/badge/LangChain%2FGraph-0d1b2a?style=for-the-badge&logo=chainlink&logoColor=9d8ec7)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1b2a?style=for-the-badge&logo=opencv&logoColor=9d8ec7)
 
+**Web & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-0d1b2a?style=for-the-badge&logo=flask&logoColor=9d8ec7)
+![Vue.js](https://img.shields.io/badge/Vue.js%203-0d1b2a?style=for-the-badge&logo=vuedotjs&logoColor=9d8ec7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=9d8ec7)
+![Redis](https://img.shields.io/badge/Redis-0d1b2a?style=for-the-badge&logo=redis&logoColor=9d8ec7)
+![Celery](https://img.shields.io/badge/Celery-0d1b2a?style=for-the-badge&logo=celery&logoColor=9d8ec7)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1b2a?style=for-the-badge&logo=streamlit&logoColor=9d8ec7)
+
 **Robotics / Embedded**
 
 ![ROS2](https://img.shields.io/badge/ROS%2FROS2-0d1b2a?style=for-the-badge&logo=ros&logoColor=9d8ec7)
@@ -195,12 +225,11 @@ me = RSujithGopi()
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1b2a?style=for-the-badge&logo=raspberrypi&logoColor=9d8ec7)
 ![STM32](https://img.shields.io/badge/STM32-0d1b2a?style=for-the-badge&logo=stmicroelectronics&logoColor=9d8ec7)
 
-**Data & APIs**
+**Data & Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=9d8ec7)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1b2a?style=for-the-badge&logo=plotly&logoColor=9d8ec7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=9d8ec7)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1b2a?style=for-the-badge&logo=streamlit&logoColor=9d8ec7)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1b2a?style=for-the-badge&logo=databricks&logoColor=9d8ec7)
 
 </div>
 
@@ -232,11 +261,11 @@ me = RSujithGopi()
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  I build things that move underwater, see inside the eye,       │
-│  read ancient manuscripts, listen to brain waves,               │
-│  and source components from the internet autonomously.          │
+│  read ancient manuscripts, manage campus placements,            │
+│  listen to brain waves, and source components autonomously.     │
 │                                                                  │
-│  If it involves signals, models, or microcontrollers —          │
-│  I'm probably already building it.                              │
+│  If it involves signals, models, microcontrollers, or           │
+│  full-stack systems — I'm probably already building it.         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
