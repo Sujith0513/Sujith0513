@@ -165,7 +165,6 @@ me = RSujithGopi()
 | [🏅 Olympic Analytics](https://github.com/Sujith0513/Olympic-Data-Analysis) | Medal prediction + deep-dive analysis across decades | Python, Seaborn, Scikit-learn |
 | [🌸 Iris Classifier](https://github.com/Sujith0513/Iris-Classification) | ML classification pipeline with hyperparameter tuning | Python, Scikit-learn |
 | [🔇 Active Noise Cancellation](https://github.com/Sujith0513) | Real-time adaptive DSP (LMS/RLS) + medical image enhancement | Python, NumPy, OpenCV, DSP |
-| [🔄 CML Pipeline](https://github.com/Sujith0513/CML_DEMO_FINAL) | Continuous ML pipeline with GitHub Actions CI/CD | Python, CML, GitHub Actions |
 
 ---
 
