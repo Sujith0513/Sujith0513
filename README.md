@@ -227,14 +227,6 @@ me = RSujithGopi()
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sujith0513&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
 <div align="center">
 
 ```
